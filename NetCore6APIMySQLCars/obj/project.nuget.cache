@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvMW2LXQ3o3l4rxsGchLf7d97eBszrdXMDoC6tcZKNQugMSh7NI/YeYIfmeUcjp+9+OKBLDSaLOuFpBE2VnP2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivanc\\Documents\\GitHub\\C#\\NetCore6APIMySQLCars\\NetCore6APIMySQLCars\\NetCore6APIMySQLCars.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://api.nuget.org/v3/index.json\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}
